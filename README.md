@@ -101,6 +101,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Programming Elm](https://pragprog.com/book/jfelm/programming-elm) - Thorough book from The Pragmatic Programmers that covers basics and advanced concepts.
 * [The Hitchhiker's Guide to Elm](http://azer.bike/journal/elm/) - Beginner-friendly guide for learning the language and building apps with it
 * [Practical Elm for a Busy Developer](https://korban.net/elm/book) - A non-beginner book about the practical aspects of developing Elm applications.
+* [Deck of Ricks](https://boby.dev/posts/fp-for-the-ui-part-1/) - In the Deck of Ricks series we will learn functional programming with Elmo ( Elm for Android ).
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -201,6 +202,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [elm-vega](https://github.com/gicentre/elm-vega) - Declarative visualization for Elm ([Vega](https://vega.github.io/vega/)/[Vega Lite](https://vega.github.io/vega-lite/) integration)
 * [style-elements](https://github.com/mdgriffith/style-elements) - A new way to generate web UI that makes it easier to deal with layout and stylings. [Guide](https://mdgriffith.gitbooks.io/style-elements/).
 * [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) - Generate code to build guaranteed correct, type-safe API requests to your GraphQL API.
+* [Elmo - Elm Architecture for Android](https://github.com/bobymicroby/elmo) - Elmo will help you write your android applications in a modern and functional way. You will have easy and great tests for free, and you will never have to deal with concurrency and async issues again.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
