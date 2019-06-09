@@ -47,6 +47,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm Playground](http://elm-playground.maciejsmolinski.com/) - Tiny Elm projects implemented for the sake of learning by example.
 * [TodoMVC in Electron](https://github.com/nirgn975/Elmctron) -  Documented and tested implementation of the Elm TodoMVC app in Electron.
 * [Gipher](https://github.com/matthieu-beteille/gipher) - A Tinder-like application for gifs built with elm and firebase!
+* [Elmo - Elm Architecture for Android](https://github.com/bobymicroby/elmo) - Elmo will help you write your android applications in a modern and functional way. You will have easy and great tests for free, and you will never have to deal with concurrency and async issues again.
 * [Elm Architecture in Android](https://github.com/glung/elm-architecture-android) - An example Android application implemented with the Elm Architecture using the Kotlin programming language and Anko library.
 * [Collection of examples](https://github.com/halfzebra/elm-examples) - A collection of examples with advanced techniques for real-world Elm apps.
 * [Elm Flatris](https://github.com/w0rm/elm-flatris) - A Flatris clone in Elm language v0.18.
